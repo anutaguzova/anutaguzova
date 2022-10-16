@@ -9,7 +9,7 @@ My portfolio [here](https://anutaguzova.github.io/My-portfolio/)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/anutaguzova/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/anutaguzova/badges/small)](https://www.codewars.com/users/username)   
 
 
 
