@@ -1,7 +1,13 @@
 ## Hi there 👋  I'm [Hanna](https://www.linkedin.com/in/huzavahanna/), Welcome to my github!
-### I am a Full-Stack Web Developer (Barcelona, Spain)
 
-My portfolio [here](https://anutaguzova.github.io/My-portfolio/)
+## I am delighted to share that I have completed the full-stack development program in MigraCode, and I am also a certified Frontend Developer with the Rolling Scopes School. 
+## I am a career switcher about tech robust problem-solving skills.
+
+## I am currently living in Barcelona, Spain, and have a valid work permit in Spain. 
+
+## I am looking for a suitable environment to put my skills to use in a way that benefits both parties.
+
+## My portfolio [here](https://anutaguzova.github.io/My-portfolio/)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
