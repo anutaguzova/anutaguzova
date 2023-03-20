@@ -1,11 +1,12 @@
 ## Hi there 👋  I'm [Hanna](https://www.linkedin.com/in/huzavahanna/), Welcome to my github!
 
-## I am delighted to share that I have completed the full-stack development program in MigraCode, and I am also a certified Frontend Developer with the Rolling Scopes School. 
-## I am a career switcher about tech robust problem-solving skills.
+ I am delighted to share that I have completed the full-stack development program in MigraCode, and I am also a certified Frontend Developer with the Rolling Scopes School. 
 
-## I am currently living in Barcelona, Spain, and have a valid work permit in Spain. 
+ I am a career switcher about tech robust problem-solving skills.
 
-## I am looking for a suitable environment to put my skills to use in a way that benefits both parties.
+ I am currently living in Barcelona, Spain, and have a valid work permit in Spain. 
+
+ I am looking for a suitable environment to put my skills to use in a way that benefits both parties.
 
 ## My portfolio [here](https://anutaguzova.github.io/My-portfolio/)
 
